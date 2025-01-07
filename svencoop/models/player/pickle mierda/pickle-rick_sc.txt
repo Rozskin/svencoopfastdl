@@ -1,0 +1,61 @@
+June 21,2020  pickle-rick player model for Sven-Coop by qUiCkSiLvEr
+=============================================================================
+Title                   : Pickle-Rick_sc - Sven-Coop player model
+Author                  : qUiCkSiLvEr (quicksilver@qsextreme.com) AKA: Kevin Ottalini
+
+Web Page                : http://qsextreme.com
+
+Description             : Player Model for Half-Life Sven-Coop
+
+And Special Thanks      : To DocRock & babykitkat for all their great maps and encouragement
+=============================================================================
+
+This model was inspired by DocRock's incredible map pickled_rats that he made for Mr.Pickle_Jr.
+Doc's work can be seen at https://www.twitch.tv/docrock_creations
+
+from Wikipedia:
+"Pickle Rick" is the third episode of the third season of the Adult Swim animated television series Rick and Morty. 
+Written by Jessica Gao and directed by Anthony Chun, the episode premiered on August 6, 2017. 
+In "Pickle Rick", the eccentric scientist Rick Sanchez turns himself into a pickle just as he and his family are scheduled to attend a therapy session. 
+The episode separately follows Rick's adventures as a pickle and the rest of the family's trip to therapy. 
+https://en.wikipedia.org/wiki/Pickle_Rick
+
+This model was an extensive skin and animate effort based on a public domain 3D model by Tanya_Ekberg
+https://sketchfab.com/Tanya_Ekberg which was a free model under the Creative Commons Attribution
+creativecommons.org/license Attribution 4.0 International (CC BY 4.0)
+
+All of the graphics work was done using Faststone Image Viewer, Microsoft Office Picture Manager, 
+Microsoft Imager2 and any other tool that let me do what I needed.
+
+All the compiling and other related work was done in Milkshape 1.8.5. with initial conversion from a 
+raw 3d model using Blender 2.83.
+
+The skeleton and all animations are from stock Sven-Coop player models, all credit to Valve and the Sven-Coop Team for those components.
+
+The total effort took around a month elapsed time and a couple of weeks of effort.
+
+Model Details:
+Height:     Full Sized Player Model
+Verticies:  9926
+Triangles:  15140
+Animations: 129
+
+Info:
+Files included:
+pickle-rick_sc.mdl - The Sven-Coop player model file
+pickle-rick_sc.bmp - The picture you see when selecting the model in the game
+pickle-rick_sc.jpg - picture of the pickle-rick character as seen in the series
+pickle-rick_sc.txt - This text file
+
+Place pickle-rick_sc.mdl, pickle-rick_sc.bmp and pickle-rick_sc.txt in a new folder 
+called pickle-rick_sc, in the \models\player folder in your svencoop_downloads directory.
+
+** IMPORTANT NOTICE **
+This model should NOT be distributed in any kind of commercial
+compilation, product or package without my personal approval.
+
+This model CAN otherwise be distributed freely as long as this text
+file is included, unmodified, with the package.
+
+And PLEASE don't extract the skin and draw a mustache or do other unmentionables
+to the model and then release it to the world as yours; don't be lame.
